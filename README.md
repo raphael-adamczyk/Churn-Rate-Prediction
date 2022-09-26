@@ -1,5 +1,5 @@
 # Churn-Rate-Prediction
-##Develop a scoring model to identify churners in a retail bank (Python and R)
+## Develop a scoring model to identify churners in a retail bank (Python and R)
 
 ### **OVERVIEW**
 Our client, a retail bank, wishes to address the problem of customer churn.
